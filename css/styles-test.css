@@ -17,16 +17,16 @@ body {
 
 .intro-left{
 /*display: inline-block;*/
-width:30%;
+width:33%;
 margin:auto;
 text-align: justify;
 font-style: bold;
 float:left;
 line-height: 1.6rem;
 
-font-size: 1.4rem;
+font-size: 1.5rem;
 
-padding-left: 2rem;
+padding-left: 2.5rem;
 color: orange;
 /*letter-spacing: 2px;
 word-spacing: 4px;
@@ -37,20 +37,20 @@ word-spacing: 4px;
 }
 .subtitle-right{
   font-family: 'Caveat', sans-serif, cursive;
-  font-size: 2.6rem;
+  font-size: 2.5rem;
   color:orange;
   font-weight: bold;
  
   float: right;
   text-align: right;
-  width:100%;
+  width:90%;
 
 /*  padding-right: 3rem;*/
 }
 
 .right-coll{
 /* width:55%;*/
-width: 50%;
+width: 55%;
 /*heigh:500px;*/
 margin:auto;
 text-align: justify;
