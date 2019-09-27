@@ -17,7 +17,7 @@ body {
 
 .intro-left{
 /*display: inline-block;*/
-width:25%;
+width:30%;
 margin:auto;
 text-align: justify;
 font-style: bold;
@@ -50,7 +50,7 @@ word-spacing: 4px;
 
 .right-coll{
 /* width:55%;*/
-width: 45%;
+width: 50%;
 /*heigh:500px;*/
 margin:auto;
 text-align: justify;
@@ -210,7 +210,7 @@ hr{
 
 /*--------------pictures----------------*/
 .picture {
-  width: 71.5%;
+  width: 80%;
   border-radius: 15px;
   border:4px double #dca880;
   float: right;
@@ -659,7 +659,7 @@ text-decoration: none;
   padding-left: 4px;
   margin: -1.5rem;
   font-size: 1.2rem;
-  text-align: left;  /*//dodato */
+/*   text-align: left;  /*//dodato */ */
 }
 
 .links2{
@@ -716,7 +716,7 @@ margin:auto;
 }
 .right{
   float: right;
-  width: 45%; /*//promenjeno sa 35 na 45*/  /* --bilo 40-----*/
+  width: 35%; /*//promenjeno sa 35 na 45*/  /* --bilo 40-----*/
    margin: -1.2rem;
 /*   margin-top:0.1rem;*/
  /*  margin-left: 30px;*/
