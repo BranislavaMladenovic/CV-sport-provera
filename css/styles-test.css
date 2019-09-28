@@ -737,6 +737,19 @@ margin:auto;
   width: 57%;
   margin-top: 1px;
 }
+
+.right-language{
+  float: right;
+  /*width: 45%; *//*//promenjeno sa 35 na 45*/  /* --bilo 40-----*/
+  margin-top: 1px; /*--bilo 1.5 i kod links 1 bio padding 2 px*/
+/*   margin-top:0.1rem;*/
+ /*  margin-left: 30px;*/
+  color:#1D5D71;
+  text-align: right;
+ /* padding-top: 18px;*/
+  font-size: 1.2rem;
+  width: 67%;
+}
 /*.right-language{
   float: right;*/
   /*width: 45%; *//*//promenjeno sa 35 na 45*/  /* --bilo 40-----*/
