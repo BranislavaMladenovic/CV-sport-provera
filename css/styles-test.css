@@ -669,7 +669,7 @@ text-decoration: none;
   margin: -1.5rem;
   font-size: 1.2rem;
  /* text-align: left; */ /*//dodato */
- padding-top: 2px;
+/*  padding-top: 2px; */
 }
 
 .links2{
@@ -727,7 +727,7 @@ margin:auto;
 .right{
   float: right;
   /*width: 45%; *//*//promenjeno sa 35 na 45*/  /* --bilo 40-----*/
-   margin: -1.2rem;
+/*    margin: -1.2rem; */
 /*   margin-top:0.1rem;*/
  /*  margin-left: 30px;*/
   color:#1D5D71;
@@ -735,6 +735,7 @@ margin:auto;
  /* padding-top: 18px;*/
   font-size: 1.2rem;
   width: 57%;
+  margin-top: 1px;
 }
 /*.right-language{
   float: right;*/
